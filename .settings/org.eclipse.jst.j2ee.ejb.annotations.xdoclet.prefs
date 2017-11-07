@@ -1,0 +1,6 @@
+XDOCLETBUILDERACTIVE=true
+XDOCLETHOME=D\:\\xdoclet-bin-1.2.1\\xdoclet-1.2.1\\lib
+XDOCLETUSEGLOBAL=true
+XDOCLETVERSION=1.2.1
+eclipse.preferences.version=1
+org.eclipse.jst.j2ee.xdoclet.runtime.internal.tasks.DeploymentDescriptorWebdocletTaskProvider.defaultSelection=false
